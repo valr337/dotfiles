@@ -1,0 +1,22 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[General]
+confirmLogout=false
+loginMode=emptySession
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10dc782d70000172158571100000017710017
+clientId2=10dc782d70000172158573800000017710019
+count=2
+program1=floorp
+program2=floorp
+restartCommand1=/usr/bin/floorp,--sm-client-id,10dc782d70000172158571100000017710017
+restartCommand2=/usr/bin/floorp,--sm-client-id,10dc782d70000172158573800000017710019
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=yx
+userId2=yx

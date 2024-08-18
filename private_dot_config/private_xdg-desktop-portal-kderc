@@ -1,0 +1,8 @@
+[FileDialogSize]
+2560x1440 screen: Height=780
+2560x1440 screen: Width=1300
+
+[KFileDialog Settings]
+Recent Files[$e]=odinproject/html-boilderplate/index.html,file:$HOME/Downloads/bookmarks_8_16_24.html,file:///media/SSD2TB/E/Celesphonia/Magical Girl Celesphonia/Game.exe,file:///media/HDD6TB/Compressed-Obs-Recording-Archive/10-5-12 5k.mp4,file:$HOME/Documents/Work/notes/10-5.ods,file:$HOME/Pictures/Screenshot_20240808_221233.png,file:///media/HDD6TB/Compressed-Obs-Recording-Archive/3-6.mp4,file:///media/SSD2TB/E/Steps_to_Love/koibumi.exe,file:$HOME/.cache/JetBrains/Rider2024.1/log/backend.2024-07-25_2236.18714.log,file:$HOME/Documents/odinproject/html-boilderplate/index.html
+Recent URLs[$e]=file:$HOME/,file:$HOME/Desktop/,file:$HOME/Music/,file:$HOME/.cache/JetBrains/Rider2024.1/log/,file:$HOME/Downloads/,file:///media/SSD2TB/E/Steps_to_Love/,file:///media/HDD6TB/Compressed-Obs-Recording-Archive/,file:$HOME/Pictures/,file:///media/HDD6TB/,file:///media/SSD2TB/E/Celesphonia/Magical Girl Celesphonia/,file:$HOME/Documents/
+detailViewIconSize=16

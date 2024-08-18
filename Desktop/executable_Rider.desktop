@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Rider
+Exec=/home/yx/Applications/JetBrains/rider/bin/rider.sh
+Icon=/home/yx/Applications/JetBrains/rider/bin/rider.png
+Categories=Development;

@@ -1,0 +1,37 @@
+[Added Associations]
+application/xspf+xml=org.clementine_player.Clementine.desktop;
+audio/aac=mpv.desktop;org.kde.haruna.desktop;vlc.desktop;org.clementine_player.Clementine.desktop;
+audio/ac3=mpv.desktop;org.kde.haruna.desktop;vlc.desktop;fr.handbrake.ghb.desktop;
+audio/mp2=mpv.desktop;org.kde.haruna.desktop;vlc.desktop;fr.handbrake.ghb.desktop;
+audio/mp4=mpv.desktop;vlc.desktop;org.kde.haruna.desktop;org.clementine_player.Clementine.desktop;fr.handbrake.ghb.desktop;
+audio/ogg=mpv.desktop;org.kde.haruna.desktop;vlc.desktop;org.clementine_player.Clementine.desktop;fr.handbrake.ghb.desktop;
+audio/webm=mpv.desktop;org.kde.haruna.desktop;vlc.desktop;floorp.desktop;
+audio/x-flac+ogg=mpv.desktop;org.kde.haruna.desktop;vlc.desktop;org.clementine_player.Clementine.desktop;fr.handbrake.ghb.desktop;
+inode/directory=org.kde.dolphin.desktop;
+video/mp4=mpv.desktop;
+video/x-matroska=mpv.desktop;
+x-scheme-handler/geo=wheelmap-geo-handler.desktop;
+x-scheme-handler/http=floorp.desktop;
+x-scheme-handler/https=floorp.desktop;
+x-scheme-handler/tel=org.kde.kdeconnect.handler.desktop;
+
+[Default Applications]
+application/xspf+xml=org.clementine_player.Clementine.desktop;
+audio/aac=mpv.desktop;
+audio/ac3=mpv.desktop;
+audio/mp2=mpv.desktop;
+audio/mp4=mpv.desktop;
+audio/ogg=mpv.desktop;
+audio/webm=mpv.desktop;
+audio/x-flac+ogg=mpv.desktop;
+inode/directory=org.kde.dolphin.desktop;
+video/mp4=mpv.desktop;
+video/x-matroska=mpv.desktop;
+x-scheme-handler/freetube=freetube.desktop
+x-scheme-handler/geo=wheelmap-geo-handler.desktop;
+x-scheme-handler/http=floorp.desktop;
+x-scheme-handler/https=floorp.desktop;
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+x-scheme-handler/rpgmakermp=nwjsoptions.desktop
+x-scheme-handler/tel=org.kde.kdeconnect.handler.desktop;
+x-scheme-handler/logseq=appimagekit_e684a4f43ac3e6b00152f5329bde4002-Logseq.desktop

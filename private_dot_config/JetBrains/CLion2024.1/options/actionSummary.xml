@@ -1,0 +1,142 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="4" l="1722589899411" />
+    </e>
+    <e n="$Paste">
+      <i c="4" l="1722589900008" />
+    </e>
+    <e n="$SelectAll">
+      <i c="5" l="1722589035787" />
+    </e>
+    <e n="$Undo">
+      <i c="106" l="1723797907694" />
+    </e>
+    <e n="BraceOrQuoteOut">
+      <i c="3" l="1723703442007" />
+    </e>
+    <e n="CIDR.Lang.Cpp.NewClass">
+      <i c="3" l="1722426849142" />
+    </e>
+    <e n="CPP.NewCppFile">
+      <i c="1" l="1722071899928" />
+    </e>
+    <e n="CPP.NewHeaderFile">
+      <i c="1" l="1722071865031" />
+    </e>
+    <e n="CommentByBlockComment">
+      <i c="1" l="1722592462713" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1723703245741" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="796" l="1723799433238" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="32" l="1723797910769" />
+    </e>
+    <e n="EditorCopy">
+      <i c="25" l="1723726932754" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1722590783075" />
+    </e>
+    <e n="EditorDelete">
+      <i c="20" l="1721999756139" />
+    </e>
+    <e n="EditorDown">
+      <i c="37" l="1723799349961" />
+    </e>
+    <e n="EditorEnter">
+      <i c="172" l="1723799409011" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="1" l="1722589691721" />
+    </e>
+    <e n="EditorLeft">
+      <i c="125" l="1723799350177" />
+    </e>
+    <e n="EditorPaste">
+      <i c="58" l="1723799327131" />
+    </e>
+    <e n="EditorRight">
+      <i c="107" l="1723799335185" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="2" l="1723024326888" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1723701687267" />
+    </e>
+    <e n="EditorTab">
+      <i c="9" l="1723797909590" />
+    </e>
+    <e n="EditorUnSelectWord">
+      <i c="1" l="1723024328363" />
+    </e>
+    <e n="EditorUp">
+      <i c="19" l="1723701750881" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="2" l="1722590109328" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1721999799674" />
+    </e>
+    <e n="Register">
+      <i c="1" l="1722088857740" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1723725979538" />
+    </e>
+    <e n="SaveAll">
+      <i c="104" l="1723967769991" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1723703209273" />
+    </e>
+    <e n="TerminalNewPredefinedSession">
+      <i c="2" l="1721999836871" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="14" l="1723726727669" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="1" l="1723701153311" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$SettingsActionGroup">
+      <i c="1" l="1722590431787" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="1" l="1723703226724" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="6" l="1723024334313" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.HideAction">
+      <i c="1" l="1721999797710" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="5" l="1723725983567" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="2" l="1722592426414" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1721984785523" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1722592433014" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="9" l="1723457228325" />
+    </e>
+    <e n="org.jetbrains.plugins.terminal.action.TerminalNewPredefinedSessionAction$OpenShellAction">
+      <i c="1" l="1721999834569" />
+    </e>
+    <e n="org.jetbrains.plugins.terminal.action.TerminalNewPredefinedSessionAction$TerminalSettingsAction">
+      <i c="1" l="1721999837546" />
+    </e>
+  </component>
+</application>

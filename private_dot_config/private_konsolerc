@@ -1,0 +1,29 @@
+[Desktop Entry]
+DefaultProfile=Profile 2.profile
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+0x0 screen: Height=4068
+0x0 screen: Width=4096
+2 screens: Height=638
+2 screens: Width=1213
+2 screens: XPosition=1100
+2 screens: YPosition=564
+2560x1440 screen: Height=933
+2560x1440 screen: Width=1141
+2560x1440 screen: XPosition=1181
+2560x1440 screen: YPosition=548
+DisplayPort-2=DisplayPort-2
+DisplayPort-2 HDMI-A-1-1=DisplayPort-2
+MenuBar=Enabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAXwBAAAD+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAABFQEAAAMAAAR1AAADhwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[Notification Messages]
+CloseSingleTab=true
+
+[UiSettings]
+ColorScheme=

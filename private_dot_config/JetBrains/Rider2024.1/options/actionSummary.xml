@@ -1,0 +1,25 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="3" l="1721920084438" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="4" l="1721920225125" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1721920056860" />
+    </e>
+    <e n="EditorPaste">
+      <i c="4" l="1721920084526" />
+    </e>
+    <e n="RiderNewSolution">
+      <i c="1" l="1721920219534" />
+    </e>
+    <e n="RiderOpenSolution">
+      <i c="1" l="1721920102740" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="6" l="1721920060918" />
+    </e>
+  </component>
+</application>

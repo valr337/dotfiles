@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=flatpak run --command=telegram-desktop io.github.tdesktop_x64.TDesktop -autostart
+Name=io.github.tdesktop_x64.TDesktop
+Type=Application
+X-Flatpak=io.github.tdesktop_x64.TDesktop

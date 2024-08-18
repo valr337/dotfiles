@@ -1,0 +1,39 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+0x0 screen: Height=1362
+0x0 screen: Width=1280
+2560x1440 screen: Height=1362
+2560x1440 screen: Width=1280
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAEyAAAFBvwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgEAAABMAAAFBgAAAQ4BAAACAAADzQAABQYAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=/media/HDD6TB/Backups/Work archives/Backup/Work/psea-ad-hoc-withdrawal-form.pdf
+File10[$e]=$HOME/SyncthingShares/Global Sync/AY2023-2024-SIT-Acad-Calendar-Monthly.pdf
+File2[$e]=$HOME/Downloads/Work/Mathematics.pdf
+File3[$e]=$HOME/Downloads/Work/psea-ad-hoc-withdrawal-form.pdf
+File4[$e]=$HOME/Downloads/Work/Text B.pdf
+File5[$e]=$HOME/Downloads/Work/English.pdf
+File6[$e]=$HOME/Downloads/Work/Notes.pdf
+File7[$e]=$HOME/Downloads/Resume_Archive/HOOIYONGXIANG_Resume.pdf
+File8[$e]=$HOME/Documents/Work/books/Fluent C_ Principles, Practices, and Patterns -- Christopher Preschern -- 1, 2022 -- O'Reilly Media -- 1492097330 -- 0ae7b84f117ce9ae1d37fc36fa5d108b -- Anna’s Archive.pdf
+File9[$e]=$HOME/Downloads/General Safety Orientation Module v4.pdf
+Name1[$e]=psea-ad-hoc-withdrawal-form.pdf
+Name10[$e]=AY2023-2024-SIT-Acad-Calendar-Monthly.pdf
+Name2[$e]=Mathematics.pdf
+Name3[$e]=psea-ad-hoc-withdrawal-form.pdf
+Name4[$e]=Text B.pdf
+Name5[$e]=English.pdf
+Name6[$e]=Notes.pdf
+Name7[$e]=HOOIYONGXIANG_Resume.pdf
+Name8[$e]=Fluent C_ Principles, Practices, and Patterns -- Christopher Preschern -- 1, 2022 -- O'Reilly Media -- 1492097330 -- 0ae7b84f117ce9ae1d37fc36fa5d108b -- Anna’s Archive.pdf
+Name9[$e]=General Safety Orientation Module v4.pdf
+
+[UiSettings]
+ColorScheme=Breeze Dark

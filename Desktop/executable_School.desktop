@@ -1,0 +1,37 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=School
+GenericName=Web Browser
+Exec=/usr/bin/floorp -P "School" %u
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=floorp
+Categories=GNOME;GTK;Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;x-scheme-handler/chrome;video/webm;application/x-xpinstall;
+StartupNotify=true
+Actions=new-window;new-private-window;Default;Other;
+
+[Desktop Action new-window]
+Name=Open a New Window
+Exec=/usr/bin/floorp -new-window
+
+[Desktop Action new-private-window]
+Name=Open a New Private Window
+Exec=/usr/bin/floorp -private-window
+
+[Desktop Action Default]
+Name=Run Floorp with Default
+Exec=/usr/bin/floorp -no-remote -new-instance -P "Default"
+OnlyShowIn=Unity;
+
+[Desktop Action Other]
+Name=Run Floorp with Other
+Exec=/usr/bin/floorp -no-remote -new-instance -P "Other"
+OnlyShowIn=Unity;
+
+[Desktop Action Other]
+Name=Run Floorp with School
+Exec=/usr/bin/floorp -no-remote -new-instance -P "School"
+OnlyShowIn=Unity;

@@ -1,0 +1,22 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[1]
+Description=Application settings for looking-glass-client
+desktopfile=/home/yx/Desktop/looking-glass.desktop
+desktopfilerule=4
+wmclass=looking-glass looking-glass-client
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=1
+rules=1
+
+[fd25fb47-9ba8-4942-9059-c386646fe101]
+Description=Application settings for looking-glass-client
+desktopfile=/home/yx/Desktop/looking-glass.desktop
+desktopfilerule=4
+wmclass=looking-glass looking-glass-client
+wmclasscomplete=true
+wmclassmatch=1

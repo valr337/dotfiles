@@ -1,0 +1,17 @@
+[ExtractDialog]
+DirHistory[$e]=/media/SSD2TB/VM_Storage/shared/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:///media/SSD2TB/VM_Storage/shared/,file:$HOME/Downloads/
+detailViewIconSize=16
+
+[MainWindow]
+2560x1440 screen: Window-Maximized=true
+State=AAAA/wAAAAD9AAAAAQAAAAEAAACoAAAFJPwCAAAAAfsAAAAWAGEAcgBrAF8AcwBpAGQAZQBiAGEAcgEAAAAuAAAFJAAAAHMBAAACAAAJVwAABSQAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+StatusBar=Disabled
+ToolBarsMovable=Disabled

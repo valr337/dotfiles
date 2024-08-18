@@ -1,0 +1,26 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Projects/CLion/EffectiveC">
+          <value>
+            <RecentProjectMetaInfo frameTitle="EffectiveC – main.c" opened="true" projectWorkspaceId="2jmGRXDcppn20fCCgCJppnVxnEK">
+              <option name="activationTimestamp" value="1723967768487" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-241.18034.45" />
+              <option name="buildTimestamp" value="1718745180000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="696" y="137" width="1280" height="1390" extendedState="4" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1721984830710" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Projects/CLion/EffectiveC" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Projects/CLion" />
+  </component>
+</application>

@@ -1,0 +1,17 @@
+[$Version]
+update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize,kcminputrc_fix_botched_5_21_0.upd:kcminputrc_fix_botched_5_21_0_pre,kcminputrc_fix_botched_5_21_0.upd:kcminputrc_fix_botched_5_21_0,kcminputrc_repeat.upd:kcminputrc_migrate_key_repeat
+
+[Libinput][1133][50504][Logitech USB Receiver Mouse]
+PointerAccelerationProfile=1
+
+[Libinput][13364][53296][Keychron  Keychron Link ]
+PointerAccelerationProfile=1
+
+[Libinput][13364][53311][Keychron M6 Mouse]
+PointerAccelerationProfile=1
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
+
+[Tmp]
+update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize

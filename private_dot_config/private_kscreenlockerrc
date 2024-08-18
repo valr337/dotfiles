@@ -1,0 +1,10 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Daemon]
+Autolock=true
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/usr/share/wallpapers/Next/
+PreviewImage=/usr/share/wallpapers/Next/
+SlidePaths=/usr/share/wallpapers/

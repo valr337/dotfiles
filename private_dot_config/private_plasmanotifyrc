@@ -1,0 +1,8 @@
+[Applications][org.kde.discover]
+ShowBadges=false
+ShowInHistory=false
+ShowPopups=false
+
+[DoNotDisturb]
+NotificationSoundsMuted=true
+Until=2025,7,23,20,28,0.635

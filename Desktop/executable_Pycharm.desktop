@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Pycharm
+Exec=/home/yx/Applications/JetBrains/pycharm/bin/pycharm.sh
+Icon=/home/yx/Applications/JetBrains/pycharm/bin/pycharm.png
+Categories=Development;

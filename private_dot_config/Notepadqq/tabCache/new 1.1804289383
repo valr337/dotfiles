@@ -1,0 +1,60 @@
+// ==UserScript==
+// @name         Unhide reddit spoilers
+// @namespace    https://greasyfork.org
+// @description     Automatically unhides reddit spoilers on old reddit
+// @version      1.3
+// @author       valr337
+// @match        https://*.reddit.com/*
+// @grant        none
+// @license MIT
+// @require https://code.jquery.com/jquery-3.6.4.js
+// @downloadURL https://update.greasyfork.org/scripts/495648/Unhide%20reddit%20spoilers.user.js
+// @updateURL https://update.greasyfork.org/scripts/495648/Unhide%20reddit%20spoilers.meta.js
+// ==/UserScript==
+
+// Prevents script to load twice as Reddit uses iframes
+// if (window.top != window.self) { return false; }
+
+var $ = jQuery.noConflict();
+
+(function() {
+    'use strict';
+    /* globals $ */
+
+    $(document).ready(function() {
+        console.log('Unhide reddit spoilers');
+
+        const unhide = () => {
+            $('div.expando-gate').each(function() {
+                $(this).find('button:contains("Click to see spoiler")').click();
+            });
+        }
+
+        const unhidebody = () => {
+            try{
+                $('div.usertext-body').each(function() {
+                    if ($(this).find('.md-spoiler-text').length){
+                        $('p').each(function() {
+                            let text = $(this).text()
+                            if($(this).children('.md-spoiler-text').length) {
+                                $(this).text(text)
+                            }
+                        })
+                    }
+                });
+              }
+            catch(err){
+              console.log(err)
+            }
+
+        }
+
+ 				//unhide();
+        //unhidebody();
+//        window.onscroll = function(ev) {
+          	//unhide();
+            //unhidebody();
+//        };
+    });
+
+})();

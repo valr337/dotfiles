@@ -1,0 +1,48 @@
+    OpenRGB v0.9
+    Commit: b5f46e3f1de03595656c682fc2f068b66e735e63 from 2023-07-09 22:51:47 -0500
+    Launched: 20240804_112416
+====================================================================================================
+
+5008  |Info:    ------------------------------------------------------
+5008  |Info:    |               Start device detection               |
+5008  |Info:    ------------------------------------------------------
+5008  |Info:    Initializing HID interfaces: Success
+5017  |Info:    ------------------------------------------------------
+5017  |Info:    |             Detecting I2C interfaces               |
+5017  |Info:    ------------------------------------------------------
+5026  |Info:    Registering I2C interface: /dev/i2c-3 Device 1002:747E Subsystem: 148C:2427
+5026  |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+5026  |Info:    Registering I2C interface: /dev/i2c-10 Device 0000:0000 Subsystem: 0000:0000
+5026  |Info:    Registering I2C interface: /dev/i2c-1 Device 1022:790B Subsystem: 1043:8877
+5026  |Info:    Registering I2C interface: /dev/i2c-8 Device 1002:747E Subsystem: 148C:2427
+5026  |Info:    Registering I2C interface: /dev/i2c-6 Device 1002:747E Subsystem: 148C:2427
+5026  |Info:    Registering I2C interface: /dev/i2c-4 Device 1002:747E Subsystem: 148C:2427
+5027  |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+5027  |Info:    Registering I2C interface: /dev/i2c-11 Device 0000:0000 Subsystem: 0000:0000
+5027  |Info:    Registering I2C interface: /dev/i2c-2 Device 1022:790B Subsystem: 1043:8877
+5027  |Info:    Registering I2C interface: /dev/i2c-0 Device 1022:790B Subsystem: 1043:8877
+5027  |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+5027  |Info:    Registering I2C interface: /dev/i2c-9 Device 0000:0000 Subsystem: 0000:0000
+5027  |Info:    Registering I2C interface: /dev/i2c-7 Device 1002:747E Subsystem: 148C:2427
+5027  |Info:    Registering I2C interface: /dev/i2c-5 Device 1002:747E Subsystem: 148C:2427
+5027  |Info:    ------------------------------------------------------
+5027  |Info:    |               Detecting I2C devices                |
+5027  |Info:    ------------------------------------------------------
+6130  |Info:    [ENE DRAM] Registering RGB controller
+6309  |Info:    [ENE DRAM] Registering RGB controller
+6398  |Info:    ------------------------------------------------------
+6398  |Info:    |               Detecting I2C PCI devices            |
+6398  |Info:    ------------------------------------------------------
+6399  |Info:    ------------------------------------------------------
+6399  |Info:    |               Detecting HID devices                |
+6399  |Info:    ------------------------------------------------------
+6473  |Info:    [ASUS TUF GAMING B650M-E WIFI] Registering RGB controller
+6473  |Info:    ------------------------------------------------------
+6473  |Info:    |            Detecting libusb HID devices            |
+6473  |Info:    ------------------------------------------------------
+6473  |Info:    ------------------------------------------------------
+6473  |Info:    |              Detecting other devices               |
+6473  |Info:    ------------------------------------------------------
+6482  |Info:    ------------------------------------------------------
+6482  |Info:    |                Detection completed                 |
+6482  |Info:    ------------------------------------------------------

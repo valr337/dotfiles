@@ -1,0 +1,97 @@
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - initAID - Set AID from STEAM_COMPAT_APP_ID to '0'
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - initAID - Set AID to PLACEHOLDERAID '31337'
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - initAID - Set OSCDP to STEAM_COMPAT_DATA_PATH '/home/yx/.local/share/Steam/steamapps/compatdata/0'
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - loadLangFile - Language from command line is 'english'
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - loadLangFile - SYSTEMSTLCFGDIR is '/usr/share/steamtinkerlaunch'
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - loadLangFile - Command line language 'english' is no file - trying to find its absolute path
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - loadLangFile - Loading found user-installed /home/yx/.config/steamtinkerlaunch/lang/english.txt
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - getCurrentCommandline - No Proton in command line arguments 'run /home/yx/.local/share/Steam/ubuntu12_32/../bin/d3ddriverquery64.exe -d3d12'
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - saveOrgVars - Storing some original variables to restore them later
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - emptyVars - Emptied some original variables as they slowdown several system calls when started from steam
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - emptyVars - Set $PATH to '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:'
+Mon 29 Jul 2024 07:32:12 AM +08 START - ######### Initializing Game Launch 31337 using SteamTinkerLaunch v12.12 #########
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - main - Starting with a clean log
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - main - Start creating default configs
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - createDefaultCfgs - START
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - loadLanguage - First load the default language 'english' to make sure all variables are filled
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - loadLangFile - Language from command line is 'english'
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - loadLangFile - GLOBALSTLLANGDIR is '/usr/share/steamtinkerlaunch/lang'
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - loadLangFile - Command line language 'english' is no file - trying to find its absolute path
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - loadLangFile - Found user-installed /home/yx/.config/steamtinkerlaunch/lang/english.txt, attempting to update it
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - loadLangFile - Found lang file to replace the existing user-installed file with under '/usr/share/steamtinkerlaunch/lang/english.txt'
+Mon 29 Jul 2024 07:32:12 AM +08 INFO - loadLangFile - Loading found user-installed /home/yx/.config/steamtinkerlaunch/lang/english.txt
+Mon 29 Jul 2024 07:32:12 AM +08 WARN - updateEditor - 'xdg-open' selected as editor or configured editor not found - trying to find an installed editor installed
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - updateEditor - No valid editor found - will fall back to 'xdg-open'.
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - loadLanguage - Loading STLLANG from '/home/yx/.config/steamtinkerlaunch/global.conf'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - loadLanguage - STLLANG from '/home/yx/.config/steamtinkerlaunch/global.conf' is 'english'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - createDefaultCfgs - setSteamPaths:
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - setSteamPaths - Reading Steam Path variables from '/dev/shm/steamtinkerlaunch/steampaths.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 WARN - updateEditor - 'xdg-open' selected as editor or configured editor not found - trying to find an installed editor installed
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - updateEditor - No valid editor found - will fall back to 'xdg-open'.
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getGameOS - Starting game OS detection
+Mon 29 Jul 2024 07:32:13 AM +08 WARN - getGameOS - Could not extract the full game binary path from the incoming game launch command, so assuming this is a Windows game!
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - setWin - '' determined to be a Windows Game
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - delEmptyFile - Removing empty file '/dev/shm/steamtinkerlaunch/ProtonCSV.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - createDefaultCfgs - createProtonList:
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - createProtonList - Looking for available Proton versions
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Initially creating an array with available Proton versions
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Adding Proton versions found in STEAMCOMPATOOLS '/home/yx/.local/share/Steam/compatibilitytools.d'
+Mon 29 Jul 2024 07:32:13 AM +08 SKIP - getAvailableProtonVersions - Directory SYSSTEAMCOMPATOOLS '/usr/share/steam/compatibilitytools.d' not found - skipping
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Adding Proton versions found in additional SteamLibrary Paths
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Found proton directory: '/media/SSD2TB/Games/steamapps/common/Proton - Experimental'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Adding Proton versions found in CUSTOMPROTONLIST '/home/yx/.config/steamtinkerlaunch/protonlist.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Checking line '' in '/home/yx/.config/steamtinkerlaunch/protonlist.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Removing invalid line '' from '/home/yx/.config/steamtinkerlaunch/protonlist.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - createDefaultCfgs - createProtonList end
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - delEmptyFile - Removing empty file '/dev/shm/steamtinkerlaunch/ProtonCSV.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - createProtonList - Looking for available Proton versions
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Initially creating an array with available Proton versions
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Adding Proton versions found in STEAMCOMPATOOLS '/home/yx/.local/share/Steam/compatibilitytools.d'
+Mon 29 Jul 2024 07:32:13 AM +08 SKIP - getAvailableProtonVersions - Directory SYSSTEAMCOMPATOOLS '/usr/share/steam/compatibilitytools.d' not found - skipping
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Adding Proton versions found in additional SteamLibrary Paths
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Found proton directory: '/media/SSD2TB/Games/steamapps/common/Proton - Experimental'
+Mon 29 Jul 2024 07:32:13 AM +08 SKIP - fillProtonCSV - '"experimental-9.0-20240719";"/media/SSD2TB/Games/steamapps/common/Proton - Experimental/proton"' is already in the Proton array
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Adding Proton versions found in CUSTOMPROTONLIST '/home/yx/.config/steamtinkerlaunch/protonlist.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Checking line '' in '/home/yx/.config/steamtinkerlaunch/protonlist.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Removing invalid line '' from '/home/yx/.config/steamtinkerlaunch/protonlist.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - listAllSettingsEntries - '/dev/shm/steamtinkerlaunch/setentries.txt' already exists - nothing to do
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - createDefaultCfgs - STOP
+Mon 29 Jul 2024 07:32:13 AM +08 SKIP - listSteamLibraries - not recreating already available '/dev/shm/steamtinkerlaunch/SteamLibraries.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - setSteamLibraryPaths - STEAM_COMPAT_LIBRARY_PATHS set to '/home/yx/.local/share/Steam/steamapps:/media/SSD2TB/Games/steamapps'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - setSteamLibraryPaths - STEAM_COMPAT_MOUNTS set to '/home/yx/.local/share/Steam/steamapps/common/Steamworks Shared:/media/SSD2TB/Games/steamapps/common/SteamLinuxRuntime_sniper'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - setSteamLibraryPaths - STEAM_COMPAT_TOOL_PATHS set to '/home/yx/.local/share/Steam/steamapps/common/Steamworks Shared:/media/SSD2TB/Games/steamapps/common/SteamLinuxRuntime_sniper'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - main - Checking internal dependencies:
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - checkIntDeps - Result of version check for yad binary '/usr/local/bin/yad' is '14.1'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - main - Initializing first Proton:
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - delEmptyFile - Removing empty file '/dev/shm/steamtinkerlaunch/ProtonCSV.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - initFirstProton - Initializing Proton
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - initFirstProton - No Proton version available in template yet - searching for one
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - createProtonList - Looking for available Proton versions
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Initially creating an array with available Proton versions
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Adding Proton versions found in STEAMCOMPATOOLS '/home/yx/.local/share/Steam/compatibilitytools.d'
+Mon 29 Jul 2024 07:32:13 AM +08 SKIP - getAvailableProtonVersions - Directory SYSSTEAMCOMPATOOLS '/usr/share/steam/compatibilitytools.d' not found - skipping
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Adding Proton versions found in additional SteamLibrary Paths
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Found proton directory: '/media/SSD2TB/Games/steamapps/common/Proton - Experimental'
+Mon 29 Jul 2024 07:32:13 AM +08 SKIP - fillProtonCSV - '"experimental-9.0-20240719";"/media/SSD2TB/Games/steamapps/common/Proton - Experimental/proton"' is already in the Proton array
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Adding Proton versions found in CUSTOMPROTONLIST '/home/yx/.config/steamtinkerlaunch/protonlist.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Checking line '' in '/home/yx/.config/steamtinkerlaunch/protonlist.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Removing invalid line '' from '/home/yx/.config/steamtinkerlaunch/protonlist.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - initFirstProton - Updated 'USEPROTON' in '/home/yx/.config/steamtinkerlaunch/default_template.conf' to ''
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - delEmptyFile - Removing empty file '/dev/shm/steamtinkerlaunch/ProtonCSV.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getProtPathFromCSV - Creating '/dev/shm/steamtinkerlaunch/ProtonCSV.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Initially creating an array with available Proton versions
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Adding Proton versions found in STEAMCOMPATOOLS '/home/yx/.local/share/Steam/compatibilitytools.d'
+Mon 29 Jul 2024 07:32:13 AM +08 SKIP - getAvailableProtonVersions - Directory SYSSTEAMCOMPATOOLS '/usr/share/steam/compatibilitytools.d' not found - skipping
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Adding Proton versions found in additional SteamLibrary Paths
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Found proton directory: '/media/SSD2TB/Games/steamapps/common/Proton - Experimental'
+Mon 29 Jul 2024 07:32:13 AM +08 SKIP - fillProtonCSV - '"experimental-9.0-20240719";"/media/SSD2TB/Games/steamapps/common/Proton - Experimental/proton"' is already in the Proton array
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Adding Proton versions found in CUSTOMPROTONLIST '/home/yx/.config/steamtinkerlaunch/protonlist.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Checking line '' in '/home/yx/.config/steamtinkerlaunch/protonlist.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - getAvailableProtonVersions - Removing invalid line '' from '/home/yx/.config/steamtinkerlaunch/protonlist.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - initFirstProton - Initial Proton version 'FIRSTUSEPROTON' from '/home/yx/.config/steamtinkerlaunch/default_template.conf' is ''
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - main - Initializing default window resolution
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - setInitWinXY - Using '1920x1080' from config '/dev/shm/steamtinkerlaunch/defres.txt'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - main - Welcome to SteamTinkerLaunch
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - removeEmptyFiles - Removing empty files from '/home/yx/.config/steamtinkerlaunch/games/appinfo'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - removeEmptyFiles - Removing empty files from '/home/yx/.config/steamtinkerlaunch/games/header'
+Mon 29 Jul 2024 07:32:13 AM +08 INFO - main - Checking command line: incoming arguments 'run /home/yx/.local/share/Steam/ubuntu12_32/../bin/d3ddriverquery64.exe -d3d12'

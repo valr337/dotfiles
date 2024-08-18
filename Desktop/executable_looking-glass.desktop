@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application  
+Name=Looking Glass              
+Icon=/home/yx/Applications/icons/looking-glass.ico
+Exec="/home/yx/Applications/looking-glass"
+

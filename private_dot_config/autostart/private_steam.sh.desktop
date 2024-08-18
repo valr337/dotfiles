@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=/home/yx/Documents/bashscripts/startupscripts/steam.sh
+Icon=dialog-scripts
+Name=steam.sh
+Type=Application
+X-KDE-AutostartScript=true

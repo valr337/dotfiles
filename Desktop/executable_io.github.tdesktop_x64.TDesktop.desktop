@@ -1,0 +1,22 @@
+[Desktop Entry]
+Name=64Gram Desktop
+Comment=Unofficial desktop version of Telegram messaging app
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=telegram-desktop --file-forwarding io.github.tdesktop_x64.TDesktop -- @@u %u @@
+Icon=io.github.tdesktop_x64.TDesktop
+Terminal=false
+StartupWMClass=64Gram
+Type=Application
+Categories=Chat;Network;InstantMessaging;Qt;
+MimeType=x-scheme-handler/tg;
+Keywords=tg;chat;im;messaging;messenger;sms;tdesktop;
+Actions=quit;
+DBusActivatable=true
+SingleMainWindow=true
+X-GNOME-UsesNotifications=true
+X-GNOME-SingleWindow=true
+X-Flatpak=io.github.tdesktop_x64.TDesktop
+
+[Desktop Action quit]
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=telegram-desktop io.github.tdesktop_x64.TDesktop -quit
+Name=Quit Telegram
+Icon=application-exit
